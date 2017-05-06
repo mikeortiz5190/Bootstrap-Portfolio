@@ -1,0 +1,181 @@
+body{
+padding-right:100px;
+padding-left:100px;
+}
+
+.top {
+    background-color:white;
+}
+
+.name{
+    background-color:#4aaaa5;
+    margin-left:100px;
+    margin-right:300px;
+    padding-top:5px;
+    padding-bottom:5px;
+    text-align:center;
+
+}
+
+
+
+.links{
+    margin-top:40px;
+    margin-left:0px;
+}
+
+.box1{
+    margin-left:75px;
+    background-color:white;
+    margin-right:-40px;
+
+}
+
+.thin-grey-line{
+    background-color:#eee;
+    padding:2px;
+}
+
+.pic-size{
+    float:left;
+    margin-top:20px;
+    margin-right:20px;
+    width:140px;
+    height:140px;
+}
+
+.bio1{
+    line-height: 25px;
+    font-size: 15px;
+    color:#888;
+}
+
+.box2{
+       background-color:#ffffff;
+       text-align:center;
+       margin-right:75px;
+       margin-left:75px;
+ 
+
+}
+.green{
+    color:#4aaaa5;
+    font-family:'PT-Sans', sans-serif;
+}
+
+.thin-green-line{
+
+    margin-top:-50px;
+    margin-bottom:0px;
+    background-color:#4aaaa5;
+    padding:3px;
+}
+
+.grey-box{
+  
+    background-color:#666;
+    color:#eee;
+    padding:25px;
+    font-size:12px;
+    text-align:center;
+}
+
+
+.name-box{
+    margin-top:20px;
+}
+.email-box{
+    margin-top:20px;
+}
+
+.message-box{
+    margin-top:20px;
+
+}
+
+
+
+
+.rotor-pic{
+width:216px;
+height:144px;
+margin-top:40px;
+margin-left:0px;   
+}
+
+.rotor-pic-text{
+    font-size:20px;
+    text-align:center;
+    font-family: times;
+    background-color:#4aaaa5;
+    color:#eee;
+    padding-top:3px;
+    padding-bottom:3px;
+    width:216px;
+    position: absolute;
+    bottom: 220px;
+    left:105px;
+}
+
+.gear-pic{
+width:216px;
+height:144px;
+margin-top:40px;
+margin-left: 0px;
+}
+
+.gear-pic-text{
+    font-size:20px;
+    text-align:center;
+    font-family: times;
+    background-color:#4aaaa5;
+    color:#eee;
+    padding-top:3px;
+    padding-bottom:3px;
+    width:216px;
+    position: absolute;
+    bottom: 220px;
+    left:345px;
+}
+
+.bearing-pic{
+    width:216px;
+height:144px;
+margin-top:30px;
+margin-left:0px; 
+}
+
+.bearing-pic-text{
+    font-size:20px;
+    text-align:center;
+    font-family: times;
+    background-color:#4aaaa5;
+    color:#eee;
+    padding-top:3px;
+    padding-bottom:3px;
+    width:216px;
+    position: absolute;
+    bottom: 40px;
+    left:105px;
+}
+
+.turbine-pic{
+    width:216px;
+height:144px;
+margin-top:30px;
+margin-left: 0px;
+}
+
+.turbine-pic-text{
+    font-size:20px;
+    text-align:center;
+    font-family: times;
+    background-color:#4aaaa5;
+    color:#eee;
+    padding-top:3px;
+    padding-bottom:3px;
+    width:216px;
+    position: absolute;
+    bottom: 40px;
+    left:345px;
+}
